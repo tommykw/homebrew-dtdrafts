@@ -1,8 +1,8 @@
 class Dtdrafts < Formula
     desc "CLI tool for searching and managing unpublished articles from dev.to"
     homepage "https://github.com/tommykw/dtdrafts"
-    url "https://github.com/tommykw/dtdrafts/releases/download/v0.1.2/dtdrafts-macos.tar.gz"
-    sha256 "5d8cbc9c072c55e2ac879d583015b04964ce482d9fbaa883aa9e8be21872ebc9"
+    url "https://github.com/tommykw/dtdrafts/releases/download/v0.1.3/dtdrafts-macos.tar.gz"
+    sha256 "2111d94bfc2d3f1d5ee352473a1449b4991aaa300d5459bf34f00f3f3f37093f"
     license "MIT"
 
     def install
